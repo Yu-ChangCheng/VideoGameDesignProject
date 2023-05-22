@@ -3,6 +3,8 @@
 ## A "game feel" game where you are a Mech saving your planet from losing its sun.
 To play simply download the Build folder and play on either the MacOS or Windows
 The trailer Video: https://youtu.be/x4AXpEoTAnU
+To Download the game, please find it here: https://gtvault-my.sharepoint.com/:f:/g/personal/ycheng345_gatech_edu/EurOD2Q2QMlFo-HWwcI1a2gBU2_BfJ69bBkc70LMG5QmQg?e=yTNRX8
+
 
 ## Team: Trash Pandas
   * Yu-Chang Cheng | ycheng345@gatech.edu | ycheng345
